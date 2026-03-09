@@ -4,6 +4,8 @@
 
 Whether you need a 24/7 customer support representative, a social media manager that monitors the web, or a viral marketing machine, Agent Squared lets you instantly spin up AI employees tailored specifically to your company's data and voice.
 
+### 🌐 Live Demo: [http://149.28.206.121](http://149.28.206.121)
+
 ---
 
 ## 🚀 Features

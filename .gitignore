@@ -1,0 +1,29 @@
+# ── OS ────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Backend ───────────────────────────
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.pyc
+backend/.env
+backend/*.db
+backend/uploads/
+backend/venv/
+backend/.venv/
+backend/output.log
+
+# ── Frontend ──────────────────────────
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.env*
+frontend/public/generated/
+
+# ── Archives ──────────────────────────
+*.zip
+
+# ── IDE ───────────────────────────────
+.vscode/
+.idea/
